@@ -2,11 +2,11 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_HUB_USER = 'maheshgowdamg25'
-        DOCKER_HUB_REPO = 'docker'
+        DOCKER_HUB_USER = 'harsh5900'
+        DOCKER_HUB_REPO = 'devops'
         IMAGE_NAME = 'nginx'
         CONTAINER_NAME = 'app'
-        DOCKER_HUB_PASS = 'Mahi@2001'  
+        DOCKER_HUB_PASS = 'Harshitha@9500'  
     }
 
     stages {
