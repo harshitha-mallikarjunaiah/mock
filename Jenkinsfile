@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_USER = 'harsh5900'
-        DOCKER_HUB_REPO = 'devops'
+        DOCKER_HUB_REPO = 'mock'
         IMAGE_NAME = 'nginx'
         CONTAINER_NAME = 'app'
         DOCKER_HUB_PASS = 'Harshitha@9500'  
